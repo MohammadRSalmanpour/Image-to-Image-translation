@@ -1,4 +1,7 @@
-Paper Title: "Influence of High-Performance Image-to-Image Translation Networks on Clinical Visual Assessment and Outcome Prediction: Utilizing MRI to Ultrasound Translation in Prostate Cancer"
+Journal Paper Title: "Influence of High-Performance Image-to-Image Translation Networks on Clinical Visual Assessment and Outcome Prediction: Utilizing MRI to Ultrasound Translation in Prostate Cancer"
+
+Archive paper Title: "Do High-Performance Image-to-Image Translation Networks Enable the Discovery of Radiomic Features? Application to MRI Synthesis from Ultrasound in Prostate Cancer"
+Access Link: https://arxiv.org/abs/2403.18651
 
 The codes and the related documents will be released after acceptance. 
 
