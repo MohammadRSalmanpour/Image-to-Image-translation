@@ -10,3 +10,11 @@ Classification Codes folder includes classification algorithms such as Random Fo
 Image-to-Image Translation Networks folder includes 8 image-to-image translation networks used in above paper. 
 
 Radiomics feature names and descriptions.xlsx includes Radiomics feature names and descriptions. 
+
+
+AUTHOR(S):
+
+Mohammad R. Salmanpour, Amin Mousavi
+STATEMENT: This files are part of above papers. Package by Mohammad R.Salmanpour, Amin Mousavi. --> Copyright (C) 2024 Mohammad R. Salmanpour, University of British coulumbia. This package is distributed in the hope that it will be useful. It is flexible license for research products. For commercial use, please get permison from Dr. Mohammad R. Salmanpour via eamil address m.salmanpoor66@gmail.com.
+
+Any feedback welcome!!! m.salmanpoor66@gmail.com, m.salmanpour.ubc.ca.
