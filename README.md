@@ -3,7 +3,6 @@ Journal Paper Title: "Influence of High-Performance Image-to-Image Translation N
 ArXiv paper Title: "Do High-Performance Image-to-Image Translation Networks Enable the Discovery of Radiomic Features? Application to MRI Synthesis from Ultrasound in Prostate Cancer"
 Access Link: https://arxiv.org/abs/2403.18651
 
-The codes and the related documents will be released after acceptance. 
 
 Classification Codes folder includes classification algorithms such as Random Forest and ResNet50.
 
